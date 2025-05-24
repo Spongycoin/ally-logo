@@ -1,6 +1,11 @@
 {
-  "name": "Ally",
+  "name": "Ally Alien",
   "symbol": "ALLY",
-  "description": "A green alien in a hoodie with a graffiti background. Ally is your mischievous meme token from space.",
-  "image": "https://raw.githubusercontent.com/Spongycoin/ally-logo/main/logo.png"
+  "description": "Ally is coming to Earth",
+  "image": "https://raw.githubusercontent.com/Spongycoin/ally-logo/main/logo.png",
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": "@FoksyCoin"
+  }
 }
